@@ -1,0 +1,13 @@
+[plugin]
+id = "plugin3"
+name = "3"
+version = "0.1.0"
+type = "plugin"
+entry = "plugin.plugins.plugin3:Plugin3Plugin"
+description = ""
+[plugin.author]
+name = "yunwan"
+
+[plugin.sdk]
+recommended = ">=0.1.0,<0.2.0"
+supported = ">=0.1.0,<0.3.0"
